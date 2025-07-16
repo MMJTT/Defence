@@ -1,0 +1,2 @@
+2025-07-10 20:07:17 - INFO - Experiment dir: ./logs/feature_extraction_experiment_20250710_200717
+2025-07-10 20:08:22 - INFO - Epoch 001 | loss_total:2.6654, loss_info:3.2371, loss_ncl:0.0426, loss_adv:-0.4927, loss_diff:-0.1216, d_loss:0.5955, mu_distance:0.8493, lr:0.0001
